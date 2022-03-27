@@ -1,5 +1,7 @@
 # Project garbAIge
 
+![Logo](https://github.com/aryashah2k/project-garbAIge/blob/main/assets/project%20garbAIge%20logo.PNG)
+
 **Project garbAIge aims at reducing human contact to ever growing waste both unhygienic and toxic in nature and helping the planet take its first step towards sustainable living.**
 
 # The problem Project garbAIge solves
@@ -43,5 +45,17 @@ https://share.streamlit.io/pipinstallarya/project-garbaige/main/main.py
 
 # Screenshots
 
+![1](https://github.com/aryashah2k/project-garbAIge/blob/main/assets/Home.PNG)
 
+
+![2](https://github.com/aryashah2k/project-garbAIge/blob/main/assets/Part%201.PNG)
+
+
+![3](https://github.com/aryashah2k/project-garbAIge/blob/main/assets/Part%202.PNG)
+
+![4](https://github.com/aryashah2k/project-garbAIge/blob/main/assets/Drag%20and%20Drop.PNG)
+
+![5](https://github.com/aryashah2k/project-garbAIge/blob/main/assets/Deploy.PNG)
+
+![6](https://github.com/aryashah2k/project-garbAIge/blob/main/assets/About.PNG)
 
