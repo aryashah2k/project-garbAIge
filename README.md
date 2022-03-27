@@ -37,3 +37,11 @@ Integrate the technology with IoT Devices and enable the same to be industry rea
 
 Make the model more robust by augmenting the dataset and increasing the size of the dataset.
 
+# Web App can be tested live at: 
+
+https://share.streamlit.io/pipinstallarya/project-garbaige/main/main.py
+
+# Screenshots
+
+
+
